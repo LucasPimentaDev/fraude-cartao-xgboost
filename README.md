@@ -19,4 +19,4 @@ Após o tuning de hiperparâmetros (30 fits), o modelo final atingiu:
 1. `01_carregamento_para_mysql.py`: Carga dos dados CSV para MySQL.
 2. `02_etl.py`: Criação de Features e escalonamentos.
 3. `03_otimizador.py`: Busca de hiperparâmetros via RandomizedSearchCV.
-4. `treino_xbg.py`: Script principal de treinamento e avaliação.# fraude-cartao-xgboost
+4. `04_treino_xbg.py`: Script principal de treinamento e avaliação.# fraude-cartao-xgboost
